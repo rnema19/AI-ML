@@ -1,0 +1,14 @@
+RAG - is used for better output of the prompt. There are many answers relevant to the given prompt
+but RAG is used to generate the most probable and suitable answers.
+A RAG pipeline explores the best words matching to its knowledge base.
+
+Finetuning - Finetuning is used when we want to train our model in a specific domain.
+Suppose in health related agent, a finetuned model in health information would give better results
+related to health related questions than a normal agent
+
+This would result in more token usage in that sector, more requests and lesser 
+efficiency in other domain knowledge of the same model.
+
+We use RAG when we want to build an agent to carry out tasks, retrieve general information
+and automate processes.
+

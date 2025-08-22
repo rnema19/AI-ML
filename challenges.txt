@@ -1,0 +1,11 @@
+1. to use which Database as updation and retrieval of the data should be accurate
+Used relational DB like SQL and SQLite for that
+
+2. which framework to use as terminal based chatbot wouldn't be proper adn good for testing
+Used langchain for that with streamlit as the interface would be good
+
+3. AI API to be used as OPEN AI is paid
+Open AI has token based payments so used google generative ai apis
+
+4. extract information from chatbot
+used json format as it would be easier to parse information and lesser logic implementation to return to string format

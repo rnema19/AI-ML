@@ -1,0 +1,10 @@
+There would be chances of a bias in the result prediction.
+Factors of minority class won't be considered much.
+
+We can use alternatives like :
+
+1. Undersampling of the majority data
+
+2. Oversampling of the minority data
+
+3. SMOTE technique
