@@ -8,4 +8,7 @@ Used langchain for that with streamlit as the interface would be good
 Open AI has token based payments so used google generative ai apis
 
 4. extract information from chatbot
+
 used json format as it would be easier to parse information and lesser logic implementation to return to string format
+
+the app code of Q1 is app2.py file
